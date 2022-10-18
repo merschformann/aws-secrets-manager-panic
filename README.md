@@ -1,6 +1,6 @@
 # aws-secrets-manager-panic
 
-Minimal example of AWS secrets manager go package panicking when not using the defaults.
+Minimal example of AWS secrets manager go package panicking when not using the defaults. See code in `main.go`.
 
 ## Steps to reproduce
 
